@@ -20,3 +20,4 @@ dist
 /favicon.ico
 /webpack.common.js
 /package.json
+/package-lock.json
